@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Vinith.<br>- 👀 I’m interested in Web Development.<br>- 🌱 I’m currently learning MERN stack development.<br>- 💞️ I’m looking to collaborate on Web development projects.<br>- 📫 Reach me at vinithmh2000@gmail.com.
+- 👋 Hi, I’m Vinith.<br>- 👀 I’m a Programmer.<br>- 🌱 I’m currently learning MERN stack development.<br>- 💞️ I’m looking to collaborate on Web development projects.<br>- 📫 Reach me at vinithmh2000@gmail.com.
 
 
 ## 🌐 Socials:
